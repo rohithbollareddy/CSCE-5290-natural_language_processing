@@ -36,6 +36,9 @@ The language model such as GPT-2 can easily be fine tuned as per our requirement
 ## References:
 
 https://jalammar.github.io/illustrated-gpt2/#part-3-beyond-language-modeling
+
 https://towardsdatascience.com/conditional-text-generation-by-fine-tuning-gpt-2-11c1a9fc639d
+
 https://huggingface.co/docs/transformers/model_doc/gpt2#gpt2lmheadmodel
+
 https://huggingface.co/blog/how-to-generate
