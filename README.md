@@ -1,4 +1,4 @@
-# Text Summarization using GPT-2 and Pytorch
+# Text Summarization using pre-trained language models by fine-tuning.
 
 ## Motivation
 
